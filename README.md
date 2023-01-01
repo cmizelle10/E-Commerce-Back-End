@@ -33,7 +33,7 @@ Dependencies needed:
 
 ## Video Demonstration
 
-To view a video on the usage of the application, [click here]
+To view a video on the usage of the application, [click here](https://github.com/cmizelle10/E-Commerce-Back-End/blob/main/ORM_Challenge_Walkthrough.webm)
 
 
 ## Contact
